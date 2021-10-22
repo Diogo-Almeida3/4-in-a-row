@@ -1,0 +1,10 @@
+#my-button{
+    -fx-background-color: #b1c5bd;
+    -fx-text-fill: #5e7e73;
+}
+
+#button-hover{
+    -fx-background-color: #cfdbd6;
+    -fx-text-fill: #84a499;
+}
+
